@@ -1,7 +1,7 @@
 # FinalProject_2018
-Course: COP1000 Principles of Computer Programming
-Date:12/03/2018
-Author: Nefise Isikli
+# Course: COP1000 Principles of Computer Programming
+# Date:12/03/2018
+# Author: Nefise Isikli
 Course Outline:
 - Conditional operators and selections
 - String operations and console input and output
